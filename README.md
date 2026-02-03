@@ -9,7 +9,7 @@ Every Jupyter notebook file in this repo corresponds to a chapter in the book, t
 
 ### Environment Setup
 A conda envirnonment named "py39" was created. This env contained Python 3.9.25 and other needed tools and libraries such as jupyter, ipykernel, numpy, pandas, etc. \
-For coding purpose, Visual Studio Code was used by installing following extensions:\
+For coding purpose, Visual Studio Code was used by installing following extensions:
 1. Jupyter Extension Pack
 2. Python
 3. Pylance
